@@ -11,4 +11,7 @@ The middle pieces should placed approximately every 0.6M or 60cm which is 2 feet
 <img width="1339" height="246" alt="Screenshot 2026-03-25 at 10 28 16 am" src="https://github.com/user-attachments/assets/1b200724-852f-485d-894c-ae37043b6a14" />
 
 ## BOM
-[Filament storage-bom (1).csv](https://github.com/user-attachments/files/26336501/Filament.storage-bom.1.csv)
+[Filament.storage-bom.1.csv](https://github.com/user-attachments/files/26336505/Filament.storage-bom.1.csv)
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Elegoo filament","To print the feet",1,13.77,"https://www.jaycar.com.au/elegoo-pla-filament-space-grey-1-75mm-1kg/p/TL6412","Jaycar electronics"
+"Wooden dowel","For the filament to rest on",1,13.00,"https://www.bunnings.com.au/porta-12mm-1-8m-eucalyptus-grandis-dowel_p0497587","Bunnings warehouse"
